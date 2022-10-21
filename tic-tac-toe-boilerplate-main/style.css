@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-size: 70px;
+    color: yellow;
+    font-style:italic;
+    text-align: center;
+}
+.blocks{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 10px;
+    
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    text-align: center;
+    color: red;
+}
+.rest{
+    text-align: center;
+    background-origin: padding-box;
+}
